@@ -3,7 +3,7 @@ package PROGRAMMERS.programmers_step01;
 
 import java.util.Arrays;
 
-public class K번째수 {
+public class 주차중_K번째수 {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         int[] cut = new int[10];
@@ -34,7 +34,7 @@ public class K번째수 {
     }
 
     public static void main(String[] args) {
-        K번째수 S = new K번째수();
+        주차중_K번째수 S = new 주차중_K번째수();
         int[] array = {1, 5, 2, 6, 3, 7, 4};
         int[][] commands = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
 

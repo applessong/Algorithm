@@ -1,6 +1,5 @@
 package PROGRAMMERS.programmers_step00;
 
-import PROGRAMMERS.알고리즘샘플;
 
 public class 두수의차 {
     public int solution(int num1, int num2) {
